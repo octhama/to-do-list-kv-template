@@ -107,7 +107,7 @@ export default function () {
                   value="delete"
                   className="text-red-500 hover:text-red-700"
                 >
-                  Delete
+                  Supprimer
                 </button>
               </Form>
             </li>
