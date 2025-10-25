@@ -4,8 +4,8 @@
 
 ![To-Do List Template Preview](https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/923473bc-a285-487c-93db-e0ddea3d3700/public)
 
-# IMPORTANT : 
-ligne de commande pour créér une branche  et se positionner sur sa branche : git checkout -b nom-de-la-branche origin/nom-de-la-branche et ensuite appliquez le workflow git adéquat pour Push via cette branche pour déclencher une PR
+> [!IMPORTANT] 
+> Ligne de commande pour créér une branche  et se positionner sur sa branche : git checkout -b nom-de-la-branche origin/nom-de-la-branche et ensuite appliquez le workflow git adéquat pour Push via cette branche pour déclencher une PR
 
 <!-- dash-content-start -->
 
